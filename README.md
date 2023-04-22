@@ -1,5 +1,5 @@
 # KICS 4.1.2
-This is an updated [VoiceAttack](https://www.voiceattack.com/) profile for the [KICS](https://github.com/mwerle/KICS) Voice Pack for Elite Dangerous by Arflint
+This is an updated [VoiceAttack](https://www.voiceattack.com/) profile for the Ripley Galactic [KICS](https://github.com/mwerle/KICS) Voice Pack for Elite Dangerous by Arflint
 
 You'll need to grab the KICS profile from [here](https://github.com/mwerle/KICS) as you'll require the audio files, this VA profile doesn't have any included it's just the `vap` file for VA.
 
