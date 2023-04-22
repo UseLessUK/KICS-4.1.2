@@ -16,7 +16,7 @@ End Condition
 ## Notes
 1. You will need to enable plugin support within VA.
 
-• Click the spanner (wrench) lower right of the VA main window, make teh General tab active and check (tick) `Enable Plugin Support` on the right and then click OK. You'll need to restart VA.
+	• Click the spanner (wrench) lower right of the VA main window, make teh General tab active and check (tick) `Enable Plugin Support` on the right and then click OK. You'll need to restart VA.
 
 2. This VA profile will **not** work without [bindED](https://github.com/alterNERDtive/bindED) being installed as a plugin in VA
 
