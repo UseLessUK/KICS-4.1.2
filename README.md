@@ -13,6 +13,9 @@ Else
     Write [Gray] '[Cooling - 02. Deploy Heat Sink]' to log
 End Condition
 ```
+## ED:Odyssey
+This profile has support for ED:Odyssey check out the **On Foot** category in the profile.
+
 ## 3rd Party Applications
 The profile now has some options to start some 3rd party apps such as CMDRs Toolbox, Inara, EDSM, EDSY, Coriolis, Spansh and if you have them installed EDDiscovery and EDMC.
 
