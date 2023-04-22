@@ -13,6 +13,9 @@ Else
     Write [Gray] '[Cooling - 02. Deploy Heat Sink]' to log
 End Condition
 ```
+## 3rd Party Applications
+The profile now has some options to start some 3rd party apps such as CMDRs Toolbox, Inara, EDSM, EDSY, Coriolis, Spansh and if you have them installed EDDiscovery and EDMC.
+
 ## Notes
 1. You will need to enable plugin support within VA.
 
