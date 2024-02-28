@@ -9,7 +9,7 @@ This updated version **requires** [bindED](https://github.com/alterNERDtive/bind
 Begin Text Compare : [edDeployHeatSink] Has Been Set
     Press variable key(s) [edDeployHeatSink] and hold for 0.05 seconds and release
 Else
-    Write [Red] 'Missing keybind for:' to log
+    Write [Red] 'Missing keybind for: (The key needs to be set in game)' to log
     Write [Gray] '[Cooling - 02. Deploy Heat Sink]' to log
 End Condition
 ```
