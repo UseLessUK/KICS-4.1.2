@@ -3,13 +3,17 @@ This is an updated [VoiceAttack](https://www.voiceattack.com/) profile for the R
 
 You'll need to grab the KICS profile from [here](https://github.com/mwerle/KICS) as you'll require the audio files, this VA profile doesn't have any included it's just the `vap` file for VA.
 
-## Notes: Insatlling the KICS Profile & Audio files
+## Notes: Installing the KICS Profile & Audio files
 After downloading and extracting the KICS Profile zip file, make sure you copy/move the `Ripley Galactic` dir **and** it's entire contents to the `VoiceAttack\Sounds\` dir. You should end up with the following dir structure;
 
 • VoiceAttack\Sounds\Ripley Galactic
+
 • VoiceAttack\Sounds\Ripley Galactic\KICS 4
+
 • VoiceAttack\Sounds\Ripley Galactic\KICS 4\Audio
+
 • VoiceAttack\Sounds\Ripley Galactic\KICS 4\Music
+
 
 ## Updated VA Profile
 This updated version **requires** [bindED](https://github.com/alterNERDtive/bindED) in order to function. All the **Key Bindings** entries have been updated to support variable keys, like so;
