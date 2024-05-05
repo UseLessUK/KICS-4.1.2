@@ -1,9 +1,9 @@
 # KICS 4.1.2
 This is an updated [VoiceAttack](https://www.voiceattack.com/) profile for the Ripley Galactic [KICS](https://github.com/mwerle/KICS) Voice Pack for Elite Dangerous by Arflint
 
-You'll need to grab the KICS profile from [here](https://github.com/mwerle/KICS) as you'll require the audio files, this VA profile doesn't have any included it's just the `vap` file for VA.
+You'll need to grab the KICS profile from [here](https://github.com/mwerle/KICS) as you'll require the audio files, this VA profile doesn't have any included it's just the `vap` file for VoiceAttack.
 
-## Notes: Installing the KICS Profile & Audio files
+### Notes: Installing the KICS Profile & Audio files
 After downloading and extracting the KICS Profile zip file, make sure you copy/move the `Ripley Galactic` dir **and** it's entire contents to the `VoiceAttack\Sounds\` dir. You should end up with the following dir structure;
 
 • VoiceAttack\Sounds\Ripley Galactic
