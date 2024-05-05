@@ -36,6 +36,6 @@ The profile now has some options to start some 3rd party apps such as CMDRs Tool
 
 	• Click the Spanner (Wrench) icon on the lower right of the VA main window, make the General tab active and check (tick) `Enable Plugin Support` on the right and then click OK. You'll need to restart VA.
 
-2. This VA profile will **NOT** work without [bindED](https://github.com/alterNERDtive/bindED) being installed as a plugin in VA
+2. This VA profile will **NOT** work without [bindED](https://github.com/alterNERDtive/bindED) being installed as a plugin in VoiceAttack. Also make sure you've setup keys for all the functions you wish to use in game, you will be shown an error if a keybind is missing (Red message) and the Category/Key that requires a keybind (Grey message).
 
 3. You'll need to edit the command `KICS.startup` and enable the keyboard layout line you wish to use for bindED, should you not wish to use the default of `en-us`.
