@@ -39,7 +39,7 @@ See the Ripley Galactic [KICS](https://github.com/mwerle/KICS) page for commands
 
 Current Game Mode
 
-Disembark from the ship; Disembark from teh SRV
+Disembark from the ship; Disembark from the SRV
 
 Prepare for take off;prepare to take off;prep for departure *[modified to now optionally check for limpets/crew member]*
 
