@@ -1,9 +1,9 @@
 # KICS 4.1.2
 This is an updated [VoiceAttack](https://www.voiceattack.com/) profile for the Ripley Galactic [KICS](https://github.com/mwerle/KICS) Voice Pack for Elite Dangerous by Arflint
 
-If you already have the Ripley Galactic KICS Profile audio files installed then all you need to download is the .**vap** file.
+If you already have the Ripley Galactic KICS profile audio files installed then all you need to download and import, into VoiceAttack, is the .**vap** file.
 
-If you **do not** have the Ripley Galactic KICS audio files installed then you should download and import, into VoiceAttack, the .**vax** file, this contains the audio files along with the VoiceAttack profile.
+If you **do not** have the Ripley Galactic KICS profile audio files installed then you should download and import, into VoiceAttack, the .**vax** file, this contains the audio files along with the VoiceAttack profile.
 
 ## Updated VA Profile
 This updated version **requires** [bindED](https://github.com/alterNERDtive/bindED) in order to function. All the **Key Bindings** entries have been updated to support variable keys, like so;
