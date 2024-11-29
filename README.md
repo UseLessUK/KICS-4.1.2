@@ -5,6 +5,9 @@ If you already have the Ripley Galactic KICS profile audio files installed then 
 
 If you **do not** have the Ripley Galactic KICS profile audio files installed then you should download and import, into VoiceAttack, the .**vax** file, this contains the audio files along with the VoiceAttack profile.
 
+## Changes
+See the [changes](Changes.md) file for a list of changes.
+
 ## Updated VA Profile
 This updated version **requires** [bindED](https://github.com/alterNERDtive/bindED) in order to function. All the **Key Bindings** entries have been updated to support variable keys, like so;
 ```
@@ -141,3 +144,5 @@ va listening on; va listening off
 2. This VA profile will **NOT** work without [bindED](https://github.com/alterNERDtive/bindED) being installed as a plugin in VoiceAttack. Also make sure you've setup keys for all the functions you wish to use in game, you will be shown an error if a keybind is missing (Red message) and the Category/Key that requires a keybind (Grey message).
 
 3. You'll need to edit the command `KICS.startup` and enable the keyboard layout line you wish to use for bindED, should you not wish to use the default of `en-us`.
+
+4. If VLC Player does **NOT** open the music playlists and instead reports an error then you should watch [this](https://www.youtube.com/watch?v=9oqCRz7CUkQ) video on how to solve the problem. Which worked for me.
