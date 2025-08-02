@@ -1,4 +1,4 @@
-# KICS 4.1.2
+# KICS 4.1.2 [bindED]
 This is an updated [VoiceAttack](https://www.voiceattack.com/) profile for the Ripley Galactic [KICS](https://github.com/mwerle/KICS) Voice Pack for Elite Dangerous by Arflint
 
 If you already have the Ripley Galactic KICS profile audio files installed then all you need to download and import, into VoiceAttack, is the .**vap** file.
@@ -139,7 +139,7 @@ va listening on; va listening off
 # Notes
 1. You will need to enable plugin support within VA.
 
-	• Click the Spanner (Wrench) icon on the lower right of the VA main window, make the General tab active and check (tick) `Enable Plugin Support` on the right and then click OK. You'll need to restart VA.
+	â€¢ Click the Spanner (Wrench) icon on the lower right of the VA main window, make the General tab active and check (tick) `Enable Plugin Support` on the right and then click OK. You'll need to restart VA.
 
 2. This VA profile will **NOT** work without [bindED](https://github.com/alterNERDtive/bindED) being installed as a plugin in VoiceAttack. Also make sure you've setup keys for all the functions you wish to use in game, you will be shown an error if a keybind is missing (Red message) and the Category/Key that requires a keybind (Grey message).
 
